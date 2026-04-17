@@ -17,7 +17,9 @@ smbclient -L //green-hill.picoctf.net -p <PORT> -N
 
 <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-Kết quả ra : **shares**, **secure-shares**&#x20;và **IPC$**
+Kết quả ra : **shares**
+, **secure-shares**
+&#x20;và **IPC$**
 
 sau đó truy cập vào **shares:**&#x20;
 
