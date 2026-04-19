@@ -122,9 +122,12 @@ dùng **checksec** với file **vuln**
 
 ta thấy :
 
-Partial RELRO\
-No canary found\
-**NX enabled**\
+Partial RELRO
+\
+No canary found
+\
+**NX enabled**
+\
 No PIE
 
 -> **NX**
